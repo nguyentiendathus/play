@@ -1,1 +1,1 @@
-# play
+#game of life
